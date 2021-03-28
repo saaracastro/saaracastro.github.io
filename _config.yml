@@ -1,23 +1,21 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Saara S. Castro
 
 # Description of your website. This is used for social sharing.
 description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: Apaixonada por tecnologia, inovação, gestão de pessoas e projetos sociais. 
 
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
+  - platform: Lattes
+    url: http://lattes.cnpq.br/1200771825712342
   - platform: twitter
     url: https://twitter.com/brianmaierjr
   - platform: linkedin
-    url: brianmaierjr
-
+    url: https://www.linkedin.com/in/saaracastro/
+    
 # General settings
 # url: http://brianmaierjr.github.com/uni
 # baseurl: "/uni" 
